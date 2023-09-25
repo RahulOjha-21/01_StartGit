@@ -8,3 +8,10 @@
 ## A :- it shows the file is tracked
 
 ## git status :- shows the status of the file
+
+## git commit -m "add comment here to track commit  through decription" :- commit command to final the changes
+
+## git push origin main :- push the modfied/new code in local to web repository
+
+## git pull origin main :- push the modfied/new code in local to web repository
+
